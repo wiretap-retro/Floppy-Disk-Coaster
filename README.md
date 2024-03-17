@@ -1,4 +1,4 @@
-# Floppy-Disk-Coaster
+# Floppy Disk Coaster
 A simple PCB that looks like a 3.5" DD floppy disk and can be used as a coaster.
 
 ## Info
